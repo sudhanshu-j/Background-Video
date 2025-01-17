@@ -68,7 +68,7 @@ To get this project up and running on your local machine:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/slider-background-video.git
+   git clone https://github.com/sudhanshu-j/slider-background-video.git
    ```
 
 2. **Navigate to the project directory**:
